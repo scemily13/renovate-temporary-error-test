@@ -1,4 +1,4 @@
-ddtrace==0.60.2
+ddtrace==0.61.5
 pydantic==1.9.0
 fastapi==0.75.1
 uvicorn[standard]==0.17.6
